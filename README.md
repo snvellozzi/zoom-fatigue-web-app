@@ -1,1 +1,1 @@
-# zoom-fatigue-web-app
+# Zoom Fatigue Web Extension
