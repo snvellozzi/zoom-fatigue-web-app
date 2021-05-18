@@ -1,1 +1,11 @@
-
+{
+    "name": "",
+    "description": "A browser extension that allows users to combat Zoom fatigue and rest through calming colors, images, and patterns",
+    "browser_action": {
+        "default_icon": "",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
