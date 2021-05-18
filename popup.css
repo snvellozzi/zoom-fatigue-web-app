@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/mavenpro/v22/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf21nejpBh8CvRBOA.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: "Maven Pro";
+    text-align: center;
+}
+
+.container-outside {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-inside {
+    display: flex;
+    flex-direction: row;
+}
+
+.canvas-small {
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color: white;
+    /*TODO: figure out dimensions*/
+    width: ;
+    height: ;
+}
+
+.canvas-large {
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    background-color: white;
+    /*TODO: figure out dimensions*/
+    width: ;
+    height: ;
+}
+
+.button-box {
+    border: solid;
+    border-color: #21DCBB;
+    border-radius: 5px;
+    background-color: #21DCBB;
+    /*TODO: figure out dimensions*/
+    width: ;
+    height: ;
+}
+
+.title-box {
+    border: solid;
+    border-color: #C4C4C4;
+    background-color: #C4C4C4;
+    /*TODO: figure out dimensions*/
+    width: ;
+    height: ;
+}
